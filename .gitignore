@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE/editor
+.vscode/
+*.swp
+
+# HL7 output
+data/test_messages/*.hl7
